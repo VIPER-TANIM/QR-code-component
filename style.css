@@ -1,0 +1,23 @@
+body{
+    background-color: #D5E1EF!important;
+}
+.card{
+    width: 400px!important;
+    border-radius: 20px!important;
+    background-color: red;
+    margin-top: 150px;
+}
+.card-img-top{
+    border-radius: 30px!important;
+    padding: 17px;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700!important;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 0px 30px 30px 30px;
+    color: slategray;
+}
